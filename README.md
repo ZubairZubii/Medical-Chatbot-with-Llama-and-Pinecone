@@ -24,7 +24,7 @@ This project is a **medical chatbot** that leverages **Langchain**, **HuggingFac
 
 Check out the demo video of the Medical Chatbot in action:
 
-👉 [![Watch the Demo](https://www.loom.com/share/19409b6c0c314a8482bdf46fed64b500?sid=d4081ab5-f98b-4ed8-a96e-b7c08b991252)
+👉 Check out our gameplay video here: [Med Chat Bot](https://www.loom.com/share/19409b6c0c314a8482bdf46fed64b500?sid=6b5c2ebb-ff55-4f82-a773-f060aa71dc8b)
 
 ---
 
