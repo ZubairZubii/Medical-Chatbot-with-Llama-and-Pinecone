@@ -6,6 +6,8 @@ Here is a well-structured **README** for your project:
 
 This project is a **medical chatbot** that leverages **Langchain**, **HuggingFace embeddings**, and **Pinecone** for vector storage. It uses a **Llama model** to handle medical-related questions and provide detailed answers. You can interact with this chatbot via a web interface, and the bot can retrieve information about medical conditions, treatments, and more.
 
+![med](https://github.com/user-attachments/assets/612f858b-00e0-4860-91c2-065c1f347deb)
+
 ---
 
 ## 🌟 **Key Features**
@@ -22,13 +24,9 @@ This project is a **medical chatbot** that leverages **Langchain**, **HuggingFac
 
 Check out the demo video of the Medical Chatbot in action:
 
-[![Watch the Demo](https://img.youtube.com/vi/6f0fdf913b0/0.jpg)](https://www.loom.com/share/06f0fdf913b048f2859b459a35d0e411?sid=5afa2638-014b-455a-a1e0-aea94a342433)
+👉 [![Watch the Demo](https://www.loom.com/share/19409b6c0c314a8482bdf46fed64b500?sid=d4081ab5-f98b-4ed8-a96e-b7c08b991252)
 
 ---
-
-## 🚀 **Live Demo**
-
-👉 **[Try it Now!](#)** *(Replace with actual URL once deployed)*
 
 ---
 
